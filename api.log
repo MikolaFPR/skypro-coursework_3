@@ -1,0 +1,43 @@
+2022-09-13 22:06:28,635 : [INFO] : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-09-13 22:06:28,635 : [INFO] : [33mPress CTRL+C to quit[0m
+2022-09-13 22:09:33,443 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:33] "GET / HTTP/1.1" 200 -
+2022-09-13 22:09:33,496 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:33] "GET /static/css/styles.min.css HTTP/1.1" 200 -
+2022-09-13 22:09:33,498 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:33] "GET /static/img/bookmark.png HTTP/1.1" 200 -
+2022-09-13 22:09:33,498 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:33] "GET /static/img/eye.png HTTP/1.1" 200 -
+2022-09-13 22:09:39,817 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:39] "GET /posts/1 HTTP/1.1" 200 -
+2022-09-13 22:09:39,841 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:39] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-09-13 22:09:39,846 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:39] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-09-13 22:09:39,846 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:39] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-09-13 22:09:50,638 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:50] "GET /tag/morning HTTP/1.1" 200 -
+2022-09-13 22:09:50,661 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:50] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-09-13 22:09:50,663 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:50] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-09-13 22:09:50,664 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:50] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-09-13 22:09:54,510 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:54] "GET /users/leo HTTP/1.1" 200 -
+2022-09-13 22:09:54,530 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-09-13 22:09:54,532 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:54] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-09-13 22:09:54,532 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-09-13 22:09:57,466 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:57] "GET / HTTP/1.1" 200 -
+2022-09-13 22:09:57,487 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:57] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-09-13 22:09:57,496 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:57] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-09-13 22:09:57,499 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:57] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-09-13 22:09:59,294 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:59] "[32mGET /bookmarks/add/1?r=/ HTTP/1.1[0m" 302 -
+2022-09-13 22:09:59,299 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:59] "GET / HTTP/1.1" 200 -
+2022-09-13 22:09:59,315 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:59] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-09-13 22:09:59,317 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:59] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-09-13 22:09:59,317 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:09:59] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-09-13 22:10:27,953 : [INFO] : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-09-13 22:10:27,953 : [INFO] : [33mPress CTRL+C to quit[0m
+2022-09-13 22:10:36,773 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:10:36] "GET / HTTP/1.1" 200 -
+2022-09-13 22:10:36,805 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:10:36] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-09-13 22:10:36,806 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:10:36] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-09-13 22:10:36,807 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:10:36] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-09-13 22:10:38,736 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:10:38] "GET /posts/1 HTTP/1.1" 200 -
+2022-09-13 22:10:38,757 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:10:38] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-09-13 22:10:38,760 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:10:38] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-09-13 22:10:38,761 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:10:38] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-09-13 22:10:48,509 : [INFO] : Запрос api/posts
+2022-09-13 22:10:48,509 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:10:48] "GET /api/posts HTTP/1.1" 200 -
+2022-09-13 22:11:00,698 : [INFO] : Запрос api/posts/1
+2022-09-13 22:11:00,698 : [INFO] : 127.0.0.1 - - [13/Sep/2022 22:11:00] "GET /api/posts/1 HTTP/1.1" 200 -
